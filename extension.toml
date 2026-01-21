@@ -3,5 +3,5 @@ name = "Fozzy"
 version = "0.1.1"
 schema_version = 1
 authors = ["Matthew Goodman"]
-description = "Dark carbon theme with warm earthy syntax colors, optimized using CAM16-UCS perceptual color science"
+description = "Dark carbon theme with warm earthy syntax colors"
 repository = "https://github.com/juxta-tad/fozzy-zed"
