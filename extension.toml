@@ -1,6 +1,6 @@
 id = "fozzy"
 name = "Fozzy"
-version = "0.1.1"
+version = "0.1.8"
 schema_version = 1
 authors = ["Matthew Goodman"]
 description = "Dark carbon theme with warm earthy syntax colors"
