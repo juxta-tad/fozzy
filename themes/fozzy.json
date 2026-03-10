@@ -15,9 +15,9 @@
         "border.transparent": "#00000000",
         "border.disabled": "#1f1f1fff",
         "elevated_surface.background": "#242424ff",
-        "surface.background": "#ff0000ff",
-        "background": "#ff0000ff",
-        "element.background": "#ff0000ff",
+        "surface.background": "#181818ff",
+        "background": "#181818ff",
+        "element.background": "#242424ff",
         "element.hover": "#242424ff",
         "element.active": "#2a2a2aff",
         "element.selected": "#2a2a2aff",
@@ -47,7 +47,7 @@
         "tab.active_background": "#181818ff",
         "search.match_background": "#4da58666",
         "search.active_match_background": "#d88e7966",
-        "panel.background": "#ff0000ff",
+        "panel.background": "#181818ff",
         "panel.focused_border": "#1e1e1eff",
         "pane.focused_border": "#1e1e1eff",
         "scrollbar.thumb.background": "#ffffff06",
@@ -56,7 +56,7 @@
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#00000000",
         "editor.foreground": "#e0d8ccff",
-        "editor.background": "#ff0000ff",
+        "editor.background": "#181818ff",
         "editor.gutter.background": "#181818ff",
         "editor.subheader.background": "#1e1e1eff",
         "editor.active_line.background": "#ffffff08",
@@ -112,10 +112,10 @@
         "created.border": "#5a8a62ff",
         "deleted": "#fc9087ff",
         "deleted.background": "#242424ff",
-        "deleted.border": "#ba766fff",
+        "deleted.border": "#dcc4ecff",
         "error": "#fc9087ff",
         "error.background": "#242424ff",
-        "error.border": "#ba766fff",
+        "error.border": "#dcc4ecff",
         "hidden": "#7a7972ff",
         "hidden.background": "#242424ff",
         "hidden.border": "#7a7972ff",
@@ -199,7 +199,7 @@
             "background_color": "#cea47f10"
           },
           "label": {
-            "color": "#ba766fff",
+            "color": "#dcc4ecff",
             "font_style": null
           },
           "link_uri": {
@@ -232,7 +232,7 @@
             "font_style": null
           },
           "property": {
-            "color": "#ba766fff",
+            "color": "#dcc4ecff",
             "font_style": null
           },
           "punctuation": {
