@@ -112,10 +112,10 @@
         "created.border": "#5a8a62ff",
         "deleted": "#fc9087ff",
         "deleted.background": "#242424ff",
-        "deleted.border": "#dcc4ecff",
+        "deleted.border": "#e8ac9dff",
         "error": "#fc9087ff",
         "error.background": "#242424ff",
-        "error.border": "#dcc4ecff",
+        "error.border": "#e8ac9dff",
         "hidden": "#7a7972ff",
         "hidden.background": "#242424ff",
         "hidden.border": "#7a7972ff",
@@ -157,11 +157,13 @@
             "font_style": null
           },
           "comment": {
-            "color": "#575b65ff"
+            "color": "#4a4a4aff",
+            "background_color": "#000000ff"
           },
           "comment.doc": {
-            "color": "#6a6f7aff",
-            "font_style": "italic"
+            "color": "#4a4a4aff",
+            "font_style": "italic",
+            "background_color": "#000000ff"
           },
           "constant": {
             "color": "#78ade0ff",
@@ -199,7 +201,7 @@
             "background_color": "#cea47f10"
           },
           "label": {
-            "color": "#dcc4ecff",
+            "color": "#e8ac9dff",
             "font_style": null
           },
           "link_uri": {
@@ -232,7 +234,7 @@
             "font_style": null
           },
           "property": {
-            "color": "#dcc4ecff",
+            "color": "#e8ac9dff",
             "font_style": null
           },
           "punctuation": {
@@ -279,12 +281,14 @@
             "font_style": null
           },
           "comment.line": {
-            "color": "#464a52ff",
-            "font_style": "italic"
+            "color": "#4a4a4aff",
+            "font_style": "italic",
+            "background_color": "#000000ff"
           },
           "comment.unused": {
-            "color": "#464a52ff",
-            "font_style": "italic"
+            "color": "#4a4a4aff",
+            "font_style": "italic",
+            "background_color": "#000000ff"
           },
           "punctuation.bracket.angle": {
             "color": "#b0b1b1ff",
